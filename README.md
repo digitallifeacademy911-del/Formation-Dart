@@ -1,9 +1,15 @@
 # Bienvenue dans ce cours consacrer au language dart
+
+## Histoire du language dart
+> Dévoiller le 11 octobre 2011 lors de la conférence GOTO à Aarhus, au Danemark, le projet a été fondé par Lars Bak et Kasper Lund. Sa première version est sortie le 14 novembre 2013.<br>
+> Initialement concue pour remplacer le javascript elle fut à partir de la version 1.9 en 2015 adapter pour ce concentrer sur la compilation vers le Javascript.<br> À partir de 2018 le language dart fue améliorer pour accompagner le framework flutter grace à l'outils dart2native.<br><br>Dans ce cours nous nous interesseront aux notions de base pour apprendre le language dart.
+
+
 ## **Somaires**
 ### 1. **Installation**
 ### 2. **Les commentaires**
 
-<ul style="list-style-type: lower-alpha; border-left: 3px solid gray; display: block;">
+ <ul style="list-style-type: lower-alpha; border-left: 5px solid rgba(255, 255, 255, 0.2); display: block; background-color: rgba(255, 255, 255, 0.06); border-radius: 2px 1px;">
     <li>uniligne <code>//</code></li>
     <li>mutiligne <code>/* */</code></li>
     <li>Documentation uniligne <code>///</code></li>
@@ -12,7 +18,7 @@
 
 ### 3. **Les variables**
 
-<ul style="list-style-type: lower-alpha; border-left: 3px solid gray; display: block;">
+ <ul style="list-style-type: lower-alpha; border-left: 5px solid rgba(255, 255, 255, 0.2); display: block; background-color: rgba(255, 255, 255, 0.06); border-radius: 2px 1px;">
     <li>Le mot clé( <code>var</code> )</li>
     <li>Typée( <code>String, int, double, etc...</code> )</li>
     <li>Les constantes( <code>final</code>, <code>const</code> )</li>
@@ -23,7 +29,7 @@
 
 ### 4. **Les opérateurs**
 
-<ul style="list-style-type: lower-alpha; border-left: 3px solid gray; display: block;">
+ <ul style="list-style-type: lower-alpha; border-left: 5px solid rgba(255, 255, 255, 0.2); display: block; background-color: rgba(255, 255, 255, 0.06); border-radius: 2px 1px;">
     <li>
         Arithmétiques( <code>+</code>, <code>-</code>, <code>*</code>, <code>/</code>, <code>~/</code>, <code>%</code> )
     </li>
@@ -53,7 +59,7 @@
 
 ### 5. **Les entrées et sorties standard**
 
-<ul style="list-style-type: lower-alpha; border-left: 3px solid gray; display: block;">
+ <ul style="list-style-type: lower-alpha; border-left: 5px solid rgba(255, 255, 255, 0.2); display: block; background-color: rgba(255, 255, 255, 0.06); border-radius: 2px 1px;">
     <li>
     Les entrées
         <ul>
@@ -72,7 +78,7 @@
 
 ### 6. **Les types**
 
-<ul style="list-style-type: lower-alpha; border-left: 3px solid gray; display: block;">
+ <ul style="list-style-type: lower-alpha; border-left: 5px solid rgba(255, 255, 255, 0.2); display: block; background-color: rgba(255, 255, 255, 0.06); border-radius: 2px 1px;">
     <li>Les nombres( <code language="dart">num</code>, <code language="dart">int</code>, <code language="dart">double</code> )</li>
     <li>Les chaines de caractères( <code language="dart">String</code> )</li>
     <li>Les Lists ( <code language="dart">List</code> )</li>
@@ -85,7 +91,7 @@
 
 ### 7.  Les fonctions 
 
-<ul style="list-style-type: lower-alpha; border-left: 3px solid gray; display: block;">
+ <ul style="list-style-type: lower-alpha; border-left: 5px solid rgba(255, 255, 255, 0.2); display: block; background-color: rgba(255, 255, 255, 0.06); border-radius: 2px 1px;">
     <li>Déclaration</li>
     <li>
         Les Paramètres
@@ -105,7 +111,7 @@
 
 ### 8. Les classes
 
-<ul style="list-style-type: lower-alpha; border-left: 3px solid gray; display: block;">
+ <ul style="list-style-type: lower-alpha; border-left: 5px solid rgba(255, 255, 255, 0.2); display: block; background-color: rgba(255, 255, 255, 0.06); border-radius: 2px 1px;">
     <li>Déclaration( <code>class</code> )</li>
     <li>Les Attributs</li>
     <li>Les Méthodes</li>
@@ -140,10 +146,17 @@
 
 ### 9. Les exceptions
 
-<ul style="list-style-type: lower-alpha; border-left: 3px solid gray; display: block;">
+ <ul style="list-style-type: lower-alpha; border-left: 5px solid rgba(255, 255, 255, 0.2); display: block; background-color: rgba(255, 255, 255, 0.06); border-radius: 2px 1px;">
     <li>Le Block try-catch ( <code language="dart">try</code>, <code language="dart">catch</code> )</li>
     <li>On ( <code language="dart">On</code> )</li>
     <li>Les Exceptions Personnaliser</li>
 </ul>
 
 ### 10. Les assertions
+
+
+---
+
+
+Ressource : 
+> - [Introduction au language dart](https://www.geeksforgeeks.org/dart/introduction-to-dart-programming-language/)
