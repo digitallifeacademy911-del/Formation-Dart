@@ -28,7 +28,7 @@ J'aborderai dans cette section du cours l'installation avec le dart SDK mais aus
 > Le Dart SDK(Software Development Kit) fourni l'ensemble des outils, bibliothèques nécessaire à l'exécution d'un programme dart.Pour le télécharger se rendre sur la page suivante <a href="https://dart.dev/get-dart/archive">https://dart.dev/get-dart/archive</a>. Télécharger la version du programme pour votre plateforme(Windows, macos, Linux).
 
 
-![Stable channels of dart sdk](./dart-sdk-archive.png)
+![Stable channels of dart sdk](../assets/dart-sdk-archive.png)
 
 Une fois le téléchargement terminer si vous êtes sur ubuntu, lancer les commandes suivantes:
 ```bash

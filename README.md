@@ -1,4 +1,4 @@
-# Bienvenue dans ce cours consacrer au language dart
+![Les fondements de la programmation en dart](assets/Affiche.png)
 
 ## Histoire du language dart
 > Dévoiller le 11 octobre 2011 lors de la conférence GOTO à Aarhus, au Danemark, le projet a été fondé par Lars Bak et Kasper Lund. Sa première version est sortie le 14 novembre 2013.<br>
