@@ -88,4 +88,4 @@ Dart SDK version: 3.10.8 (stable) (Tue Jan 27 00:02:04 2026 -0800) on "linux_x64
 Si votre but est juste de faire des tests ou d'apprendre et que vous disposer d'une bonne connexion internet utiliser [DartPad](https://dartpad.dev/)
 
 
-Une vidéo sur le sujet est actuellement en ligne sur youtube à cette adresse [https://youtu.be/iRXdMnwm7MM?si=KYQ_qDLsq3VHgrYU](https://youtu.be/iRXdMnwm7MM?si=KYQ_qDLsq3VHgrYU)
+### Une vidéo sur le sujet est disponible sur youtube à cette adresse [https://youtu.be/iRXdMnwm7MM?si=KYQ_qDLsq3VHgrYU](https://youtu.be/iRXdMnwm7MM?si=KYQ_qDLsq3VHgrYU)
