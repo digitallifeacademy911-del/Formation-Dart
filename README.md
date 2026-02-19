@@ -13,7 +13,7 @@
     <li>uniligne <code>//</code></li>
     <li>mutiligne <code>/* */</code></li>
     <li>Documentation uniligne <code>///</code></li>
-    <li>Documentation multiligne <code>/* ** */</code></li>
+    <li>Documentation multiligne <code>/** **/</code></li>
 </ul>
 
 ### 3. **Les variables**
