@@ -8,13 +8,13 @@
 ## **Somaires**
 ### 1. **[Installation](1.%20Installation/README.md)**
 ### 2. **[Premier Programme](2.%20Premier%20programme/README.md)**
-### 3. **Les commentaires**
+### 3. **[Les commentaires](3.%20Commentaires/README.md)**
 
  <ul style="list-style-type: lower-alpha; border-left: 5px solid rgba(255, 255, 255, 0.2); display: block; background-color: rgba(255, 255, 255, 0.06); border-radius: 2px 1px;">
     <li>uniligne <code>//</code></li>
     <li>mutiligne <code>/* */</code></li>
     <li>Documentation uniligne <code>///</code></li>
-    <li>Documentation multiligne <code>/** **/</code></li>
+    <li>Générer une documentation <code>dart doc</code></li>
 </ul>
 
 ### 4. **Les variables**
